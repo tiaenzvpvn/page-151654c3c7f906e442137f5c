@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.fswlg.cn/sitemap.xml
